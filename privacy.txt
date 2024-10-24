@@ -1,0 +1,64 @@
+Kal-E Bot Privacy Policy
+Last Updated: 10/24/2024
+
+Your privacy is important to us. This Privacy Policy explains how Kal-E ("we," "our," "us") collects, uses, and protects your information when you use the Kal-E Discord bot ("Bot"). By using Kal-E, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+Kal-E collects certain types of data to operate effectively and provide you with the best possible experience. The information we collect may include the following:
+
+1.1. Discord User Data:
+Username and Discriminator (e.g., User#1234)
+User IDs (Unique Discord user ID numbers)
+Message Content (only if necessary for bot functionality, such as moderation, logging, or specific commands)
+Server IDs and Channel IDs (to identify the servers and channels where the bot is active)
+1.2. Interaction Data:
+Command usage data (tracking which commands are used and how often)
+Bot interaction data (e.g., error logs, uptime monitoring)
+Kal-E does not collect or store any personally identifiable information (PII) outside the scope of your Discord account, as listed above.
+
+2. How We Use Your Information
+Kal-E only collects data necessary to provide and improve its functionality. Specifically, we may use your data for the following purposes:
+
+To perform bot commands: Usernames, IDs, and message content may be processed when a user interacts with the bot through specific commands.
+To improve the bot: Interaction data helps us understand how Kal-E is being used and identify areas for improvement.
+To enforce moderation or other server-specific rules (if your server has enabled features like moderation, logging, or automated responses).
+We do not sell, rent, or share your data with third parties for marketing purposes.
+
+3. Data Storage and Security
+Kal-E takes reasonable measures to protect your data from unauthorized access, loss, misuse, or disclosure. However, please be aware that no method of transmitting or storing data is completely secure. We cannot guarantee the absolute security of any information transmitted via the Discord platform.
+
+Storage Duration: Kal-E stores user data only for as long as it is necessary to provide the requested functionality. Typically, message content is not stored permanently unless part of logging or moderation features.
+
+Third-Party Services: Kal-E may use third-party services (e.g., for hosting the bot) that handle data on our behalf. These third-party services are bound by privacy obligations similar to ours.
+
+4. User Control and Rights
+4.1. Accessing and Deleting Data:
+As a Discord user, you have the right to request the following at any time:
+
+Access: You can request a copy of the data Kal-E has collected from you.
+Deletion: You may request the deletion of your data from Kal-E's systems. However, please note that some data may be necessary to maintain bot functionality, and deleting it may result in loss of features or services.
+To make such requests, please contact us at [Insert Contact Email].
+
+4.2. Server Administrators:
+Administrators of Discord servers that use Kal-E may also request that data collected within their servers be removed or modified. Admins have control over which features and commands are enabled and how Kal-E interacts with their servers.
+
+5. Data Sharing
+Kal-E does not share your information with any third parties except under the following circumstances:
+
+With Your Consent: We may share data if explicitly agreed upon by the user.
+Legal Requirements: We may disclose your data if required to do so by law, or if necessary to protect our legal rights, comply with legal obligations, or assist law enforcement.
+6. Third-Party Links and Services
+Kal-E may contain links to third-party websites or services (e.g., through embedded content or external commands). We are not responsible for the privacy practices or content of these third-party services.
+
+7. Children’s Privacy
+Kal-E is intended for users who are 13 years of age or older, in compliance with Discord’s Terms of Service. We do not knowingly collect personal information from children under the age of 13. If you believe that we have inadvertently collected such data, please contact us, and we will take steps to delete the information.
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in the bot's functionality or legal requirements. If we make significant changes, we will update the "Last Updated" date at the top of this page. Continued use of Kal-E after changes are made will signify your acknowledgment and agreement to the updated policy.
+
+9. Contact Us
+If you have any questions or concerns regarding this Privacy Policy or how your data is handled, please reach out to us at:
+
+Email: [Insert Contact Email]
+
+By using Kal-E, you consent to this Privacy Policy and the processing of your data as described herein.
