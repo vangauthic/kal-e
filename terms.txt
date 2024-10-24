@@ -1,0 +1,42 @@
+Kal-E Bot Terms of Service
+Last Updated: 10/24/2024
+
+Welcome to Kal-E, a Discord bot designed to enhance your server experience! By using Kal-E, you agree to the following Terms of Service ("Terms"). These Terms govern your use of Kal-E and the services it provides ("Services"). If you do not agree to these Terms, you may not use the bot.
+
+1. Acceptance of Terms
+By inviting, using, or interacting with Kal-E in any way, you acknowledge that you have read, understood, and agree to these Terms. Your continued use of the bot constitutes your acceptance of the most recent version of the Terms.
+
+2. Privacy Policy
+Kal-E respects your privacy. Our bot may collect, store, or process certain data (such as Discord usernames, IDs, messages, etc.) necessary to provide functionality and services. By using Kal-E, you agree to this data collection.
+
+For more detailed information, please refer to our Privacy Policy [link to Privacy Policy].
+
+3. Usage of the Bot
+Age Requirement: You must be at least 13 years old (or meet the minimum age requirement as stated by Discord) to use Kal-E.
+Responsible Use: You agree to use Kal-E in compliance with all applicable laws and Discord's Terms of Service.
+Prohibited Uses: You agree not to misuse Kal-E, including but not limited to:
+Using the bot for spamming, harassment, or any illegal activities.
+Attempting to reverse engineer or alter the bot’s code or functionality.
+Engaging in activities that violate Discord's Terms of Service or Community Guidelines.
+Kal-E reserves the right to block or remove its functionality from any server or user if we determine that the bot is being misused.
+
+4. Service Availability
+Kal-E is provided "as-is" and without any warranty of any kind. We strive to ensure that Kal-E runs smoothly, but there is no guarantee of uptime, availability, or bug-free operation. We are not responsible for any downtime, loss of data, or issues arising from your use of the bot.
+
+Kal-E may be updated, modified, or discontinued at any time without prior notice.
+
+5. Limitation of Liability
+Kal-E, its developers, and affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from your use of the bot. You agree that your use of Kal-E is at your sole risk.
+
+6. Termination
+We reserve the right to remove or ban Kal-E from any server or user at any time, for any reason, without prior notice. These Terms will remain in effect even after your access to Kal-E has been terminated.
+
+7. Changes to the Terms
+We may revise these Terms from time to time. If we do so, we will update the "Last Updated" date at the top of this page. Continued use of Kal-E after any changes constitutes your acceptance of the new Terms.
+
+8. Contact Information
+If you have any questions or concerns regarding these Terms, please contact us at:
+
+Email: [Insert Contact Email]
+
+By using Kal-E, you agree to these Terms of Service. Thank you for using Kal-E!
